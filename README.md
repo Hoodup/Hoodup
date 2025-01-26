@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo"  />
+  <img src="https://github.com/Hoodup/My_Portfolio/blob/main/assets/img/tools/scikit-learn.png" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
@@ -60,11 +60,11 @@
   <!-- New logos -->
   <img src="https://github.com/Hoodup/My_Portfolio/blob/main/assets/img/tools/excel.png" height="40" alt="excel logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_logo_%282013%29.svg" height="40" alt="SSMS logo" />
+  <img src="https://github.com/Hoodup/My_Portfolio/blob/main/assets/img/tools/ssms.png" height="40" alt="SSMS logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Tableau_Logo.svg" height="40" alt="tableau logo" />
+  <img src="https://github.com/Hoodup/My_Portfolio/blob/main/assets/img/tools/tableau.png" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Power_BI_Logo.svg" height="40" alt="powerbi logo" />
+  <img src="https://github.com/Hoodup/My_Portfolio/blob/main/assets/img/tools/powerbi.jpg" height="40" alt="powerbi logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/ML_Logo.svg" height="40" alt="machine learning logo" />
 </div>
