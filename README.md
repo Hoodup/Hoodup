@@ -1,4 +1,4 @@
-![Header]<a href="https://www.linkedin.com/in/samuel-mamah-chinwe/" target="_blank">(images/profile.png)
+<a href="https://www.linkedin.com/in/samuel-mamah-chinwe/" target="_blank">images/profile.png
 </a>
 
 ### 
