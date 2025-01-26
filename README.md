@@ -1,5 +1,7 @@
-<a href="https://www.linkedin.com/in/samuel-mamah-chinwe/" target="_blank">images/profile.png
+<a href="https://www.linkedin.com/in/samuel-mamah-chinwe/" target="_blank">
+    <img src="images/profile.png" alt="Samuel Mamah Chinwe" width="100" height="100"/>
 </a>
+
 
 ### 
 
