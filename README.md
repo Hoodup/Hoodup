@@ -66,7 +66,7 @@
   <img width="12" />
   <img src="https://github.com/Hoodup/My_Portfolio/blob/main/assets/img/tools/powerbi.jpg" height="40" alt="powerbi logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/ML_Logo.svg" height="40" alt="machine learning logo" />
+  <img src="https://github.com/Hoodup/My_Portfolio/blob/main/assets/img/tools/MLearning.png" height="40" alt="machine learning logo" />
 </div>
 
 
