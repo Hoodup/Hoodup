@@ -58,7 +58,7 @@
   <img width="12" />
   
   <!-- New logos -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_2013_logo.svg" height="40" alt="excel logo" />
+  <img src="https://github.com/Hoodup/My_Portfolio/blob/main/assets/img/tools/excel.png" height="40" alt="excel logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_logo_%282013%29.svg" height="40" alt="SSMS logo" />
   <img width="12" />
