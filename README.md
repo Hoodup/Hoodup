@@ -56,16 +56,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo"  />
+  
+  <!-- New logos -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_2013_logo.svg" height="40" alt="excel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" height="40" alt="SSMS logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_logo_%282013%29.svg" height="40" alt="SSMS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Tableau_Logo.svg" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Power_BI_Logo.svg" height="40" alt="powerbi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" height="40" alt="machine learning logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/ML_Logo.svg" height="40" alt="machine learning logo" />
 </div>
+
 
 
 ### 
