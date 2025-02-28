@@ -34,7 +34,7 @@
 
 ### 
 
-<p align="left">👨‍💻 I’m a Data Scientist passionate about Python, machine learning, data analysis, and deep learning.<br><br>🔍 Experienced in working with large datasets, statistical analysis, and building predictive models.<br><br>📚 Always exploring new tools and techniques to uncover insights from data.<br><br>💬 Ask me about data science, machine learning, and AI!<br><br><b>📫 Reach me: </b><a href="mailto:leumas249@gmail.com">leumas249@gmail.com</a><br><br><b>🖥 Fun fact!:</b> I love solving data-driven problems and making data speak for itself!</p>
+<p align="left">👨‍💻 I’m a Data Scientist passionate about Python, machine learning, data analysis, and deep learning.<br><br>🔍 Experienced in working with large datasets, statistical analysis, and building predictive models.<br><br>📚 Always exploring new tools and techniques to uncover insights from data.<br><br>💬 Ask me about data science, machine learning, and AI!<br><br><b>📫 Reach me: </b><a href="mailto:samuel.dscience@gmail.com">samuel.dscience@gmail.com</a><br><br><b>🖥 Fun fact!:</b> I love solving data-driven problems and making data speak for itself!</p>
 
 
 ### 
